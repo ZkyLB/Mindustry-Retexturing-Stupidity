@@ -1,0 +1,3449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="C" producer="main_bin" version="6.23.0" root="C:/Users/user/Desktop/i blew up a router (short animated horror)">
+ <profile frame_rate_num="30" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="1" description="HD 720p 30 fps" display_aspect_num="16" frame_rate_den="1" width="1280" height="720" sample_aspect_den="1"/>
+ <producer id="producer0" in="00:00:00.000" out="00:00:11.500">
+  <property name="length">346</property>
+  <property name="eof">pause</property>
+  <property name="resource">1.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1366</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">135829</property>
+  <property name="kdenlive:file_hash">4cf4088c3253802c09b65229b956bc3e</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:00:05.300">
+  <property name="length">160</property>
+  <property name="eof">pause</property>
+  <property name="resource">2.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1366</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">1527339</property>
+  <property name="kdenlive:file_hash">d123cd60c34c02960b278b0a6b757c87</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:00:43.900">
+  <property name="length">1318</property>
+  <property name="eof">pause</property>
+  <property name="resource">2020-11-05 15-38-49.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1364</property>
+  <property name="meta.media.0.codec.height">768</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:43.933000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Track1</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:43.947000000</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.29.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1364</property>
+  <property name="meta.media.height">768</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">14012949</property>
+  <property name="kdenlive:file_hash">eb0eccf924a4baf3234cfb9052576d25</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer3" in="00:00:00.000" out="00:00:06.900">
+  <property name="length">208</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/user/Desktop/the three bois/my bag/mimdidty/cursors/cursor.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">64</property>
+  <property name="meta.media.height">64</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">336</property>
+  <property name="kdenlive:file_hash">3b6a5790c10a81674ac2b5d9c50f9fcb</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer4" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/user/Desktop/the three bois/my bag/mimdidty/cursors/hand.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">64</property>
+  <property name="meta.media.height">64</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">350</property>
+  <property name="kdenlive:file_hash">7f71e9673e8b35999c52cc09ef0bc4b9</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer5" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/user/Desktop/the three bois/my bag/mimdidty/cursors/cursor.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">64</property>
+  <property name="meta.media.height">64</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">336</property>
+  <property name="kdenlive:file_hash">3b6a5790c10a81674ac2b5d9c50f9fcb</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/user/Desktop/the three bois/my bag/mimdidty/cursors/hand.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">64</property>
+  <property name="meta.media.height">64</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">350</property>
+  <property name="kdenlive:file_hash">7f71e9673e8b35999c52cc09ef0bc4b9</property>
+ </producer>
+ <producer id="producer7" in="00:00:00.000" out="00:00:08.067">
+  <property name="length">243</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/user/Desktop/cursor.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">12</property>
+  <property name="meta.media.height">19</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">211</property>
+  <property name="kdenlive:file_hash">aa9f5de9965ea19d91160dbe1c9a6680</property>
+ </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:00:06.100">
+  <property name="length">184</property>
+  <property name="eof">pause</property>
+  <property name="resource">3.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1366</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">104303</property>
+  <property name="kdenlive:file_hash">bdc0b6c19bfd2be435af5de387b59faf</property>
+ </producer>
+ <producer id="producer9" in="00:00:00.000" out="00:00:06.100">
+  <property name="length">184</property>
+  <property name="eof">pause</property>
+  <property name="resource">4.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1366</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">96094</property>
+  <property name="kdenlive:file_hash">ef403aa3f00539b998a0d3725c0a91e9</property>
+ </producer>
+ <producer id="producer10" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">window.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">326</property>
+  <property name="meta.media.height">107</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_size">19481</property>
+  <property name="kdenlive:file_hash">d62766084f115c5900fb5d6688455c1c</property>
+ </producer>
+ <producer id="producer11" in="00:00:00.000" out="00:00:29.500">
+  <property name="length">886</property>
+  <property name="eof">pause</property>
+  <property name="resource">ahah.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">705600</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">2605100</property>
+  <property name="kdenlive:file_hash">9fc794b6cc7b21772185914d235b40ea</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer12" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/user/Downloads 2/transparant.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1</property>
+  <property name="meta.media.height">1</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">123</property>
+  <property name="kdenlive:file_hash">ebdeac6cb5c5e658f02a51d475177ee4</property>
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.activeTrack">4</property>
+  <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1604562182380</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">1</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams">../Sub;;S03.MP4;../Clip;;.MXF</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.groups">[
+    {
+        "children": [
+            {
+                "data": "3:190",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:190",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:204",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:204",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:201",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:201",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:187",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:187",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:205",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:205",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:194",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:194",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:198",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:198",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:206",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:206",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:200",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:200",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:186",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:186",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:192",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:192",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:203",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:203",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:188",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:188",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:195",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:195",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:189",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:189",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:207",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:207",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:197",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:197",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:193",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:193",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:185",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:185",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:202",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:202",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:196",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:196",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:199",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:199",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "3:191",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:191",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.guides">[&#xd;&#xd;&#xd;&#xd;&#xd;
+]&#xd;&#xd;&#xd;&#xd;&#xd;
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">20.08.1</property>
+  <property name="kdenlive:docproperties.position">638</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_720p_30</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.renderaudioquality">6</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfield">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM - the widespread free format (VP8/Vorbis)</property>
+  <property name="kdenlive:docproperties.renderquality">23</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">360</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">640</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">C:/Users/user/Videos/i blew up a router for no reason.webm</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
+  <property name="xml_retain">1</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:00:11.500"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:05.300"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:43.900"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:00:06.900"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:08.067"/>
+  <entry producer="producer8" in="00:00:00.000" out="00:00:06.100"/>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:06.100"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:00:29.500"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:04.967"/>
+ </playlist>
+ <producer id="black_track" in="00:00:00.000" out="00:17:01.267">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="mlt_image_format">rgb24a</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <producer id="producer13" in="00:00:00.000" out="00:00:43.900">
+  <property name="length">1318</property>
+  <property name="eof">pause</property>
+  <property name="resource">2020-11-05 15-38-49.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">14012949</property>
+  <property name="kdenlive:file_hash">eb0eccf924a4baf3234cfb9052576d25</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1364</property>
+  <property name="meta.media.0.codec.height">768</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:43.933000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Track1</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:43.947000000</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.29.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1364</property>
+  <property name="meta.media.height">768</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer14" in="00:00:00.000" out="00:00:29.500">
+  <property name="length">886</property>
+  <property name="eof">pause</property>
+  <property name="resource">ahah.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">705600</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">2605100</property>
+  <property name="kdenlive:file_hash">9fc794b6cc7b21772185914d235b40ea</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="producer13" in="00:00:32.967" out="00:00:39.100">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer13" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <blank length="00:00:03.900"/>
+  <entry producer="producer14" in="00:00:01.367" out="00:00:06.100">
+   <property name="kdenlive:id">13</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter0">
+    <property name="mlt_service">avfilter.acrusher</property>
+    <property name="kdenlive_id">avfilter.acrusher</property>
+    <property name="av.level_in">33.0316</property>
+    <property name="av.level_out">37.8304</property>
+    <property name="av.bits">20.53</property>
+    <property name="av.mix">0.5</property>
+    <property name="av.dc">2.15125</property>
+    <property name="av.aa">0.5</property>
+    <property name="av.samples">1</property>
+    <property name="av.lforange">20</property>
+    <property name="av.lforate">0.3</property>
+    <property name="position">frame</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <filter id="filter1">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter2">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+ </playlist>
+ <playlist id="playlist1"/>
+ <tractor id="tractor0" in="00:00:00.000" out="00:00:15.567">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="video" producer="playlist0"/>
+  <track hide="both" producer="playlist1"/>
+  <filter id="filter3">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer15" in="00:00:00.000" out="00:00:29.500">
+  <property name="length">886</property>
+  <property name="eof">pause</property>
+  <property name="resource">ahah.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">705600</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">2605100</property>
+  <property name="kdenlive:file_hash">9fc794b6cc7b21772185914d235b40ea</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="00:00:06.167"/>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:02.333">
+   <property name="kdenlive:id">13</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter4">
+    <property name="mlt_service">rbpitch</property>
+    <property name="kdenlive_id">rbpitch</property>
+    <property name="octaveshift">0</property>
+    <property name="pitchscale">2.2087</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="latency">46.1458</property>
+   </filter>
+  </entry>
+  <blank length="00:00:02.300"/>
+  <entry producer="producer15" in="00:00:01.367" out="00:00:06.100">
+   <property name="kdenlive:id">13</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter5">
+    <property name="mlt_service">rbpitch</property>
+    <property name="kdenlive_id">rbpitch</property>
+    <property name="octaveshift">0</property>
+    <property name="pitchscale">3.4066</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="latency">46.4583</property>
+   </filter>
+   <filter id="filter6">
+    <property name="mlt_service">avfilter.acrusher</property>
+    <property name="kdenlive_id">avfilter.acrusher</property>
+    <property name="av.level_in">33.0316</property>
+    <property name="av.level_out">37.8304</property>
+    <property name="av.bits">64</property>
+    <property name="av.mix">0.5</property>
+    <property name="av.dc">2.15125</property>
+    <property name="av.aa">0.5</property>
+    <property name="av.samples">250</property>
+    <property name="av.lforange">134.713</property>
+    <property name="av.lforate">0.01</property>
+    <property name="position">frame</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <filter id="filter7">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter8">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+ </playlist>
+ <playlist id="playlist3"/>
+ <tractor id="tractor1" in="00:00:00.000" out="00:00:15.567">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="video" producer="playlist2"/>
+  <track hide="both" producer="playlist3"/>
+  <filter id="filter9">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <playlist id="playlist4">
+  <entry producer="producer0" in="00:00:00.000" out="00:00:08.500">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:02.267">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer8" in="00:00:00.000" out="00:00:04.733">
+   <property name="kdenlive:id">10</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:00:15.567">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="both" producer="playlist5"/>
+ </tractor>
+ <producer id="producer16" in="00:00:00.000" out="00:00:43.900">
+  <property name="length">1318</property>
+  <property name="eof">pause</property>
+  <property name="resource">2020-11-05 15-38-49.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">14012949</property>
+  <property name="kdenlive:file_hash">eb0eccf924a4baf3234cfb9052576d25</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1364</property>
+  <property name="meta.media.0.codec.height">768</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:43.933000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Track1</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:43.947000000</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.29.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1364</property>
+  <property name="meta.media.height">768</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist6">
+  <entry producer="producer16" in="00:00:32.967" out="00:00:39.100">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter10">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter11">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:32.967=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:32.967=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter12">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter13">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter14">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter15">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter16">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter17">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter18">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter19">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter20">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter21">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter22">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter23">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter24">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter25">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter26">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter27">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter28">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter29">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter30">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter31">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter32">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter33">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter34">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter35">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter36">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter37">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter38">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter39">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter40">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter41">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter42">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter43">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter44">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter45">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter46">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter47">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter48">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter49">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter50">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter51">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter52">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter53">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter54">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter55">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer16" in="00:00:39.133" out="00:00:39.133">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter56">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">22</property>
+    <property name="left">0</property>
+    <property name="bottom">40</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter57">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:39.133=0 -9 1280 720 1.000000</property>
+    <property name="rotation">00:00:39.133=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:03.900"/>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:04.733">
+   <property name="kdenlive:id">11</property>
+   <filter id="filter58">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">0</property>
+    <property name="feather">0</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{&#xd;&#xd;&#xd;
+    "000": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5749128919860627,&#xd;&#xd;&#xd;
+                0.2733746130030957&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5801393728222997,&#xd;&#xd;&#xd;
+                0.35139318885448917&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5425087108013937,&#xd;&#xd;&#xd;
+                0.36377708978328166&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.438327526132404,&#xd;&#xd;&#xd;
+                0.36377708978328216&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4006968641114983,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.38675958188153325,&#xd;&#xd;&#xd;
+                0.2832817337461302&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "002": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5749128919860627,&#xd;&#xd;&#xd;
+                0.2733746130030957&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5801393728222997,&#xd;&#xd;&#xd;
+                0.35139318885448917&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5425087108013937,&#xd;&#xd;&#xd;
+                0.36377708978328166&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.438327526132404,&#xd;&#xd;&#xd;
+                0.36377708978328216&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4006968641114983,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.38675958188153325,&#xd;&#xd;&#xd;
+                0.2832817337461302&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "003": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4825783972125435,&#xd;&#xd;&#xd;
+                0.2609907120743029&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4878048780487805,&#xd;&#xd;&#xd;
+                0.33900928792569657&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4501742160278746,&#xd;&#xd;&#xd;
+                0.3513931888544892&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4505226480836234,&#xd;&#xd;&#xd;
+                0.5030959752321985&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4128919860627178,&#xd;&#xd;&#xd;
+                0.5154798761609907&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3989547038327528,&#xd;&#xd;&#xd;
+                0.4226006191950463&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "005": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4825783972125435,&#xd;&#xd;&#xd;
+                0.2609907120743029&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4878048780487805,&#xd;&#xd;&#xd;
+                0.33900928792569657&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4501742160278746,&#xd;&#xd;&#xd;
+                0.3513931888544892&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4505226480836234,&#xd;&#xd;&#xd;
+                0.5030959752321985&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4128919860627178,&#xd;&#xd;&#xd;
+                0.5154798761609907&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3989547038327528,&#xd;&#xd;&#xd;
+                0.4226006191950463&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "006": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5616724738675961,&#xd;&#xd;&#xd;
+                0.6857585139318881&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5557491289198606,&#xd;&#xd;&#xd;
+                0.4256965944272446&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4128919860627178,&#xd;&#xd;&#xd;
+                0.5154798761609907&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3989547038327528,&#xd;&#xd;&#xd;
+                0.4226006191950463&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "007": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5629664179104477,&#xd;&#xd;&#xd;
+                0.375&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.47909407665505227,&#xd;&#xd;&#xd;
+                0.6640866873065014&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4651567944250872,&#xd;&#xd;&#xd;
+                0.5712074303405562&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "008": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5359141791044776,&#xd;&#xd;&#xd;
+                0.6614238410596026&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.47909407665505227,&#xd;&#xd;&#xd;
+                0.6640866873065014&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4651567944250872,&#xd;&#xd;&#xd;
+                0.5712074303405562&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "011": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5359141791044776,&#xd;&#xd;&#xd;
+                0.6614238410596026&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.47909407665505227,&#xd;&#xd;&#xd;
+                0.6640866873065014&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4651567944250872,&#xd;&#xd;&#xd;
+                0.5712074303405562&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "012": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.11855465702844652,&#xd;&#xd;&#xd;
+                0.8816947901502881&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.05270522388059702,&#xd;&#xd;&#xd;
+                0.9263245033112583&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.04617537313432836,&#xd;&#xd;&#xd;
+                1.015728476821192&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "015": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.11855465702844652,&#xd;&#xd;&#xd;
+                0.8816947901502881&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.05270522388059702,&#xd;&#xd;&#xd;
+                0.9263245033112583&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.04617537313432836,&#xd;&#xd;&#xd;
+                1.015728476821192&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "016": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2118382391179988,&#xd;&#xd;&#xd;
+                0.8452709490906856&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.14598880597014924,&#xd;&#xd;&#xd;
+                0.8899006622516556&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.12639925373134323,&#xd;&#xd;&#xd;
+                1.177980132450331&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "017": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2118382391179988,&#xd;&#xd;&#xd;
+                0.8452709490906856&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.14598880597014924,&#xd;&#xd;&#xd;
+                0.8899006622516556&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.12639925373134323,&#xd;&#xd;&#xd;
+                1.177980132450331&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "018": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39372822299651566,&#xd;&#xd;&#xd;
+                0.3761609907120743&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3797909407665505,&#xd;&#xd;&#xd;
+                0.28328173374613&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42613240418118464,&#xd;&#xd;&#xd;
+                0.2857585139318885&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.33348003016277517,&#xd;&#xd;&#xd;
+                0.8939464457794272&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2691231343283582,&#xd;&#xd;&#xd;
+                0.9263245033112583&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2756529850746269,&#xd;&#xd;&#xd;
+                1.2740066225165563&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23367537313432835,&#xd;&#xd;&#xd;
+                0.8518211920529801&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.14598880597014924,&#xd;&#xd;&#xd;
+                0.8899006622516556&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.12639925373134323,&#xd;&#xd;&#xd;
+                1.177980132450331&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "019": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.41930970149253727,&#xd;&#xd;&#xd;
+                0.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.37826492537313433,&#xd;&#xd;&#xd;
+                0.277317880794702&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4246063887877686,&#xd;&#xd;&#xd;
+                0.2797946609804605&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6459800301627743,&#xd;&#xd;&#xd;
+                1.040304061673466&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6422574626865671,&#xd;&#xd;&#xd;
+                1.0471854304635762&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5862873134328358,&#xd;&#xd;&#xd;
+                1.0670529801324502&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.558480030162775,&#xd;&#xd;&#xd;
+                0.8012312139913476&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5508395522388059,&#xd;&#xd;&#xd;
+                0.8336092715231788&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5394589552238808,&#xd;&#xd;&#xd;
+                0.877980132450331&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.574160447761194,&#xd;&#xd;&#xd;
+                1.093543046357616&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5041977611940298,&#xd;&#xd;&#xd;
+                1.0571192052980132&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.495615671641791,&#xd;&#xd;&#xd;
+                1.0763245033112592&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4892636122523273,&#xd;&#xd;&#xd;
+                0.8475888298853874&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4734141791044776,&#xd;&#xd;&#xd;
+                0.8799668874172185&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.45345149253731326,&#xd;&#xd;&#xd;
+                0.9243377483443709&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4582934629985959,&#xd;&#xd;&#xd;
+                1.0283835318721424&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.42024253731343286,&#xd;&#xd;&#xd;
+                1.0571192052980132&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.39225746268656714,&#xd;&#xd;&#xd;
+                1.078973509933775&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.35960820895522383,&#xd;&#xd;&#xd;
+                0.8733443708609272&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2691231343283582,&#xd;&#xd;&#xd;
+                0.9263245033112583&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2756529850746269,&#xd;&#xd;&#xd;
+                1.2740066225165563&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23367537313432835,&#xd;&#xd;&#xd;
+                0.8518211920529801&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.14598880597014924,&#xd;&#xd;&#xd;
+                0.8899006622516556&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.12639925373134323,&#xd;&#xd;&#xd;
+                1.177980132450331&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23087686567164184,&#xd;&#xd;&#xd;
+                0.5935430463576157&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.21781716417910446,&#xd;&#xd;&#xd;
+                0.22433774834437084&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23180970149253732,&#xd;&#xd;&#xd;
+                0.11672185430463576&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.014458955223880594,&#xd;&#xd;&#xd;
+                0.1286423841059601&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.0023320895522388058,&#xd;&#xd;&#xd;
+                0.13658940397350994&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.07975746268656717,&#xd;&#xd;&#xd;
+                -0.03559602649006623&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "020": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.41930970149253727,&#xd;&#xd;&#xd;
+                0.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.37826492537313433,&#xd;&#xd;&#xd;
+                0.277317880794702&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4246063887877686,&#xd;&#xd;&#xd;
+                0.2797946609804605&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7728457018045654,&#xd;&#xd;&#xd;
+                1.0204365120045917&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7691231343283582,&#xd;&#xd;&#xd;
+                1.0273178807947019&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7131529850746268,&#xd;&#xd;&#xd;
+                1.0471854304635755&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.37060689583441675,&#xd;&#xd;&#xd;
+                1.064807372931745&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3325559701492537,&#xd;&#xd;&#xd;
+                1.093543046357616&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.304570895522388,&#xd;&#xd;&#xd;
+                1.1153973509933777&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.35960820895522383,&#xd;&#xd;&#xd;
+                0.8733443708609272&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2691231343283582,&#xd;&#xd;&#xd;
+                0.9263245033112583&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2756529850746269,&#xd;&#xd;&#xd;
+                1.2740066225165563&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.004570895522388051,&#xd;&#xd;&#xd;
+                0.4723509933774831&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.006063432835820896,&#xd;&#xd;&#xd;
+                0.39983443708609273&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.017257462686567172,&#xd;&#xd;&#xd;
+                0.3521523178807947&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.05083955223880597,&#xd;&#xd;&#xd;
+                0.38658940397350994&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.1105410447761194,&#xd;&#xd;&#xd;
+                0.38162251655629137&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.11725746268656718,&#xd;&#xd;&#xd;
+                0.354139072847682&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.07509328358208955,&#xd;&#xd;&#xd;
+                0.5951986754966887&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.1021455223880597,&#xd;&#xd;&#xd;
+                0.5256622516556291&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.11147388059701488,&#xd;&#xd;&#xd;
+                0.49387417218543056&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.12304104477611924,&#xd;&#xd;&#xd;
+                0.46672185430463586&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.1553171641791045,&#xd;&#xd;&#xd;
+                0.3667218543046358&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.16632462686567154,&#xd;&#xd;&#xd;
+                0.3150662251655628&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23087686567164184,&#xd;&#xd;&#xd;
+                0.5935430463576157&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.21781716417910446,&#xd;&#xd;&#xd;
+                0.22433774834437084&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23180970149253732,&#xd;&#xd;&#xd;
+                0.11672185430463576&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.014458955223880594,&#xd;&#xd;&#xd;
+                0.1286423841059601&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.0023320895522388058,&#xd;&#xd;&#xd;
+                0.13658940397350994&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.06856343283582089,&#xd;&#xd;&#xd;
+                -0.3087748344370861&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "022": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.41930970149253727,&#xd;&#xd;&#xd;
+                0.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.37826492537313433,&#xd;&#xd;&#xd;
+                0.277317880794702&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4246063887877686,&#xd;&#xd;&#xd;
+                0.2797946609804605&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7728457018045654,&#xd;&#xd;&#xd;
+                1.0204365120045917&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7691231343283582,&#xd;&#xd;&#xd;
+                1.0273178807947019&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7131529850746268,&#xd;&#xd;&#xd;
+                1.0471854304635755&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.37060689583441675,&#xd;&#xd;&#xd;
+                1.064807372931745&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.3325559701492537,&#xd;&#xd;&#xd;
+                1.093543046357616&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.304570895522388,&#xd;&#xd;&#xd;
+                1.1153973509933777&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.35960820895522383,&#xd;&#xd;&#xd;
+                0.8733443708609272&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2691231343283582,&#xd;&#xd;&#xd;
+                0.9263245033112583&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.2756529850746269,&#xd;&#xd;&#xd;
+                1.2740066225165563&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.004570895522388051,&#xd;&#xd;&#xd;
+                0.4723509933774831&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.006063432835820896,&#xd;&#xd;&#xd;
+                0.39983443708609273&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.017257462686567172,&#xd;&#xd;&#xd;
+                0.3521523178807947&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.05083955223880597,&#xd;&#xd;&#xd;
+                0.38658940397350994&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.1105410447761194,&#xd;&#xd;&#xd;
+                0.38162251655629137&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.11725746268656718,&#xd;&#xd;&#xd;
+                0.354139072847682&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.07509328358208955,&#xd;&#xd;&#xd;
+                0.5951986754966887&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.1021455223880597,&#xd;&#xd;&#xd;
+                0.5256622516556291&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.11147388059701488,&#xd;&#xd;&#xd;
+                0.49387417218543056&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.12304104477611924,&#xd;&#xd;&#xd;
+                0.46672185430463586&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.1553171641791045,&#xd;&#xd;&#xd;
+                0.3667218543046358&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.16632462686567154,&#xd;&#xd;&#xd;
+                0.3150662251655628&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23087686567164184,&#xd;&#xd;&#xd;
+                0.5935430463576157&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.21781716417910446,&#xd;&#xd;&#xd;
+                0.22433774834437084&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.23180970149253732,&#xd;&#xd;&#xd;
+                0.11672185430463576&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.014458955223880594,&#xd;&#xd;&#xd;
+                0.1286423841059601&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.0023320895522388058,&#xd;&#xd;&#xd;
+                0.13658940397350994&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.06856343283582089,&#xd;&#xd;&#xd;
+                -0.3087748344370861&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ],&#xd;&#xd;&#xd;
+    "023": [&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.41930970149253727,&#xd;&#xd;&#xd;
+                0.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.37826492537313433,&#xd;&#xd;&#xd;
+                0.277317880794702&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.4246063887877686,&#xd;&#xd;&#xd;
+                0.2797946609804605&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5651567944250872,&#xd;&#xd;&#xd;
+                0.2931888544891641&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6114982578397212,&#xd;&#xd;&#xd;
+                0.29566563467492263&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.6167247386759581,&#xd;&#xd;&#xd;
+                0.37368421052631584&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5940766550522648,&#xd;&#xd;&#xd;
+                0.5953560371517025&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5993031358885018,&#xd;&#xd;&#xd;
+                0.673374613003096&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.5377798507462687,&#xd;&#xd;&#xd;
+                0.6862582781456954&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7728457018045654,&#xd;&#xd;&#xd;
+                1.0204365120045917&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7691231343283582,&#xd;&#xd;&#xd;
+                1.0273178807947019&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.7131529850746268,&#xd;&#xd;&#xd;
+                1.0471854304635755&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.00046641791044776113,&#xd;&#xd;&#xd;
+                1.1183774834437086&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.0013992537313432837,&#xd;&#xd;&#xd;
+                0.982615894039735&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.012538028498621765,&#xd;&#xd;&#xd;
+                0.8897366370737904&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.019496268656716408,&#xd;&#xd;&#xd;
+                0.4806291390728474&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.008861940298507462,&#xd;&#xd;&#xd;
+                0.40811258278145696&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                0.002332089552238814,&#xd;&#xd;&#xd;
+                0.36043046357615893&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ],&#xd;&#xd;&#xd;
+        [&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.02845149253731344,&#xd;&#xd;&#xd;
+                0.1071192052980128&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.01632462686567164,&#xd;&#xd;&#xd;
+                0.11506622516556292&#xd;&#xd;&#xd;
+            ],&#xd;&#xd;&#xd;
+            [&#xd;&#xd;&#xd;
+                -0.08255597014925378,&#xd;&#xd;&#xd;
+                -0.3302980132450334&#xd;&#xd;&#xd;
+            ]&#xd;&#xd;&#xd;
+        ]&#xd;&#xd;&#xd;
+    ]&#xd;&#xd;&#xd;
+}&#xd;&#xd;&#xd;
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist7"/>
+ <tractor id="tractor3" in="00:00:00.000" out="00:00:15.567">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="audio" producer="playlist6"/>
+  <track hide="both" producer="playlist7"/>
+ </tractor>
+ <playlist id="playlist8">
+  <blank length="00:00:12.200"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:03.367">
+   <property name="kdenlive:id">12</property>
+   <filter id="filter59">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=492 309 326 107 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.667"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:04.967">
+   <property name="kdenlive:id">14</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter60">
+    <property name="argument">Subject has been terminated.</property>
+    <property name="geometry">319 343 1280 720 100.000000</property>
+    <property name="family">Terminal</property>
+    <property name="size">96</property>
+    <property name="weight">900</property>
+    <property name="style">normal</property>
+    <property name="fgcolour">0xffffffff</property>
+    <property name="bgcolour">0x00000020</property>
+    <property name="olcolour">0x2c2c2c00</property>
+    <property name="pad">0</property>
+    <property name="halign">left</property>
+    <property name="valign">top</property>
+    <property name="outline">3</property>
+    <property name="mlt_service">dynamictext</property>
+    <property name="kdenlive_id">dynamictext</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter61">
+    <property name="delta">9</property>
+    <property name="every">20</property>
+    <property name="brightnessdelta_up">0</property>
+    <property name="brightnessdelta_down">0</property>
+    <property name="brightnessdelta_every">70</property>
+    <property name="unevendevelop_up">60</property>
+    <property name="unevendevelop_down">20</property>
+    <property name="unevendevelop_duration">70</property>
+    <property name="mlt_service">oldfilm</property>
+    <property name="kdenlive_id">oldfilm</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist9"/>
+ <tractor id="tractor4" in="00:00:00.000" out="00:00:21.233">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="audio" producer="playlist8"/>
+  <track hide="both" producer="playlist9"/>
+ </tractor>
+ <playlist id="playlist10">
+  <entry producer="producer3" in="00:00:00.000" out="00:00:02.933">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter62">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=941 467 64 64 1.000000;00:00:00.767=941 467 64 64 1.000000;00:00:00.867~=932 463 64 64 1.000000;00:00:00.967~=909 385 64 64 1.000000;00:00:01.033~=883 302 64 64 1.000000;00:00:01.067~=860 273 64 64 1.000000;00:00:01.133~=854 266 64 64 1.000000;00:00:01.233~=846 229 64 64 1.000000;00:00:01.400~=845 201 64 64 1.000000;00:00:01.467~=816 185 64 64 1.000000;00:00:01.633=814 180 64 64 1.000000;00:00:02.333~=814 180 64 64 1.000000;00:00:02.400~=816 198 64 64 1.000000;00:00:02.500~=824 267 64 64 1.000000;00:00:02.533~=841 280 64 64 1.000000;00:00:02.633~=866 389 64 64 1.000000;00:00:02.700~=893 435 64 64 1.000000;00:00:02.767~=906 478 64 64 1.000000;00:00:02.867~=933 527 64 64 1.000000;00:00:02.933~=957 556 64 64 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.767=0;00:00:00.867~=0;00:00:00.967~=0;00:00:01.033~=0;00:00:01.067~=0;00:00:01.133~=0;00:00:01.233~=0;00:00:01.400~=0;00:00:01.467~=0;00:00:01.633=0;00:00:02.333~=0;00:00:02.400~=0;00:00:02.500~=0;00:00:02.533~=0;00:00:02.633~=0;00:00:02.700~=0;00:00:02.767~=0;00:00:02.867~=0;00:00:02.933~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:00.267">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter63">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=968 557 64 64 1.000000;00:00:00.033~=980 569 64 64 1.000000;00:00:00.067~=981 571 64 64 1.000000;00:00:00.100~=982 574 64 64 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.033~=0;00:00:00.067~=0;00:00:00.100~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:00.433">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter64">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=963 556 64 64 1.000000;00:00:00.033~=929 499 64 64 1.000000;00:00:00.100~=914 466 64 64 1.000000;00:00:00.133~=899 378 64 64 1.000000;00:00:00.200~=895 334 64 64 1.000000;00:00:00.267~=858 243 64 64 1.000000;00:00:00.433~=834 195 64 64 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.033~=0;00:00:00.100~=0;00:00:00.133~=0;00:00:00.200~=0;00:00:00.267~=0;00:00:00.433~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:01.100">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter65">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=823 186 64 64 1.000000;00:00:00.033=821 185 64 64 1.000000;00:00:00.433~=821 185 64 64 1.000000;00:00:00.500~=799 213 64 64 1.000000;00:00:00.600~=790 223 64 64 1.000000;00:00:00.633~=793 226 64 64 1.000000;00:00:00.733~=796 229 64 64 1.000000;00:00:00.800~=832 254 64 64 1.000000;00:00:00.933~=867 269 64 64 1.000000;00:00:00.967~=870 272 64 64 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.033=0;00:00:00.433~=0;00:00:00.500~=0;00:00:00.600~=0;00:00:00.633~=0;00:00:00.733~=0;00:00:00.800~=0;00:00:00.933~=0;00:00:00.967~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:03.967">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter66">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=870 272 64 64 1.000000;00:00:00.333~=870 272 64 64 1.000000;00:00:00.367~=869 265 64 64 1.000000;00:00:00.400~=864 243 64 64 1.000000;00:00:00.467=860 235 64 64 1.000000;00:00:01.967~=860 235 64 64 1.000000;00:00:02.033~=869 276 64 64 1.000000;00:00:02.100~=876 292 64 64 1.000000;00:00:02.133|=879 297 64 64 1.000000;00:00:02.500~=879 297 64 64 1.000000;00:00:02.567~=896 305 64 64 1.000000;00:00:02.633|=905 311 64 64 1.000000;00:00:03.367~=905 311 64 64 1.000000;00:00:03.467~=798 362 64 64 1.000000;00:00:03.567~=775 380 64 64 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.333~=0;00:00:00.367~=0;00:00:00.400~=0;00:00:00.467=0;00:00:01.967~=0;00:00:02.033~=0;00:00:02.100~=0;00:00:02.133|=0;00:00:02.500~=0;00:00:02.567~=0;00:00:02.633|=0;00:00:03.367~=0;00:00:03.467~=0;00:00:03.567~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:06.700">
+   <property name="kdenlive:id">9</property>
+   <filter id="filter67">
+    <property name="version">0.6</property>
+    <property name="mlt_service">frei0r.select0r</property>
+    <property name="kdenlive_id">frei0r.select0r</property>
+    <property name="Color to select">0x00ff00ff</property>
+    <property name="Invert selection">1</property>
+    <property name="Selection subspace">0</property>
+    <property name="Subspace shape">0.5</property>
+    <property name="Edge mode">0.9</property>
+    <property name="Delta R / A / Hue">00:00:00.000=0.2</property>
+    <property name="Delta G / B / Chroma">00:00:00.000=0.2</property>
+    <property name="Delta B / I / I">00:00:00.000=0.2</property>
+    <property name="Slope">00:00:00.000=0</property>
+    <property name="Operation">0.5</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter68">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=803 408 12 19 1.000000;00:00:00.200~=803 408 12 19 1.000000;00:00:00.300~=787 386 12 19 1.000000;00:00:00.433~=781 378 12 19 1.000000;00:00:01.500~=781 378 12 19 1.000000;00:00:01.600~=784 388 12 19 1.000000;00:00:01.767~=814 398 12 19 1.000000;00:00:02.000~=842 414 12 19 1.000000;00:00:02.100~=874 445 12 19 1.000000;00:00:02.267|=889 472 12 19 1.000000;00:00:02.500~=889 472 12 19 1.000000;00:00:02.567~=868 448 12 19 1.000000;00:00:02.700|=862 441 12 19 1.000000;00:00:04.400~=862 441 12 19 1.000000;00:00:04.500~=833 394 12 19 1.000000;00:00:04.633~=823 388 12 19 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.200~=0;00:00:00.300~=0;00:00:00.433~=0;00:00:01.500~=0;00:00:01.600~=0;00:00:01.767~=0;00:00:02.000~=0;00:00:02.100~=0;00:00:02.267|=0;00:00:02.500~=0;00:00:02.567~=0;00:00:02.700|=0;00:00:04.400~=0;00:00:04.500~=0;00:00:04.633~=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist11"/>
+ <tractor id="tractor5" in="00:00:00.000" out="00:00:15.567">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="audio" producer="playlist10"/>
+  <track hide="both" producer="playlist11"/>
+ </tractor>
+ <tractor id="tractor6" global_feed="1" in="00:00:00.000" out="00:17:01.267">
+  <track producer="black_track"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <track producer="tractor4"/>
+  <track producer="tractor5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter69">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter70">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter71">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+</mlt>
